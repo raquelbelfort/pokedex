@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(58, 199, 255, 0.849);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+#foto {
+    max-height: 75vh;
+}
+
+#nome {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 61, 110);
+    text-shadow: black;
+    font-size: 5em;
+    font-variant: small-caps;
+}
